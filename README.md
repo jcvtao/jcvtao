@@ -1,17 +1,19 @@
 ## Hi there! 👋
 
-I'm **Juan Camilo**, a Systems Engineering Student at the National University of Colombia! 🇨🇴
+I'm **Juan Camilo**, a Systems and Computer Engineering Student at the National University of Colombia! 🇨🇴
 
-I'm currently interested in learning WebDev and Software Engineering. 🤓
+I'm currently interested in software engineering and web development. 🤓
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,r,notion,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,git)](https://skillicons.dev)
 
+<!---
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,linux)](https://skillicons.dev)
+--->
 
 ### Languages
-<img alt="Spanish" src="https://unpkg.com/language-icons/icons/es.svg" style="width: 50px"> <img alt="English" src="https://unpkg.com/language-icons/icons/en.svg" style="width: 50px"> <img alt="French" src="https://unpkg.com/language-icons/icons/fr.svg" style="width: 50px"> <img alt="German" src="https://unpkg.com/language-icons/icons/de.svg" style="width: 50px">
+<img alt="Spanish" src="https://unpkg.com/language-icons/icons/es.svg" style="width: 40px"> <img alt="English" src="https://unpkg.com/language-icons/icons/en.svg" style="width: 40px"> <img alt="French" src="https://unpkg.com/language-icons/icons/fr.svg" style="width: 40px"> <img alt="German" src="https://unpkg.com/language-icons/icons/de.svg" style="width: 40px">
 
 ### Connect with me!
 
