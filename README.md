@@ -1,22 +1,24 @@
-## Hi there! 👋
+## Hi, I'm Juan Camilo! 👋
 
-I'm **Juan Camilo**, a Systems and Computer Engineering Student at the National University of Colombia! 🇨🇴
+Systems and Computer Engineering student at the National University of Colombia, with interest in software engineering and web development.
 
-I'm currently interested in software engineering and web development. 🤓
-
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,git)](https://skillicons.dev)
+### Technical Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 <!---
-### Learning
-[![Learning](https://skillicons.dev/icons?i=js,linux)](https://skillicons.dev)
+Badges from: https://github.com/Ileriayo/markdown-badges
 --->
 
-### Languages
-<img alt="Spanish" src="https://unpkg.com/language-icons/icons/es.svg" style="width: 40px"> <img alt="English" src="https://unpkg.com/language-icons/icons/en.svg" style="width: 40px"> <img alt="French" src="https://unpkg.com/language-icons/icons/fr.svg" style="width: 40px"> <img alt="German" src="https://unpkg.com/language-icons/icons/de.svg" style="width: 40px">
+### Featured Projects
+- [**Forest Pattern Maker**](https://docs.google.com/spreadsheets/d/1E1HZBGf9QAJpdPxCxH0WuuQZW6EXEakfzsaWYaH4z5s/edit?usp=sharing) – Google Sheets-based tool for planning patterns in the Forest app
+- [**Forest League Pom Tracker**](https://docs.google.com/spreadsheets/d/1tGHfnMjNBNT9iigRyoAt9R6aeMWP-5X02-4m8ISqZjk/edit?usp=sharing) – Productivity tracking system with collaborative features
 
-### Connect with me!
+### Connect With Me
 
-- ✉️ Email me: [jcvergara2003@gmail.com](mailto:jcvergara2003@gmail.com)
-- 💼 LinkedIn: [jcvergarat](https://www.linkedin.com/in/jcvergarat/)
-- 📄 Download my CV: [English](https://drive.google.com/file/d/12rUHHfLwTrYuiQZYVeAJoxWV4jIspDLr/view?usp=sharing), [Spanish](https://drive.google.com/file/d/12N_dLs37raal9uy_c9Aecb55tFIX21h5/view?usp=sharing)
+- Email me: [jcvergara2003@gmail.com](mailto:jcvergara2003@gmail.com)
+- LinkedIn: [jcvtao](https://www.linkedin.com/in/jcvtao/)
+- CV: [View Resume](https://drive.google.com/file/d/1jHpt3DWfa7KhosHkN93V2pK9NOpa4uxe/view?usp=sharing)
