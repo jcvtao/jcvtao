@@ -21,4 +21,4 @@ Badges from: https://github.com/Ileriayo/markdown-badges
 
 - Email me: [jcvergara2003@gmail.com](mailto:jcvergara2003@gmail.com)
 - LinkedIn: [jcvtao](https://www.linkedin.com/in/jcvtao/)
-- CV: [View Resume](https://drive.google.com/file/d/1jHpt3DWfa7KhosHkN93V2pK9NOpa4uxe/view?usp=sharing)
+- CV: [View Resume](https://bit.ly/CV-jcvtao)
